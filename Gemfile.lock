@@ -23,8 +23,6 @@ GEM
     rack (1.6.13)
     rack-protection (1.5.5)
       rack
-    respec (0.9.1)
-      rspec (>= 2.11)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
@@ -55,7 +53,6 @@ DEPENDENCIES
   hashie
   octokit (~> 2.0)
   pry
-  respec
   rspec
   sinatra (= 1.4.4)
 
